@@ -116,6 +116,8 @@ vu-exhibition-registration/
 └── docs/
     └── database-structure.sql
 ```
+![image](https://github.com/user-attachments/assets/c1e04f66-a12c-4675-ba06-710f27d5bc85)
+
 
 ## 🔧 Technical Details
 
