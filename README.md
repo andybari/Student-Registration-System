@@ -118,6 +118,8 @@ vu-exhibition-registration/
 ```
 ![image](https://github.com/user-attachments/assets/c1e04f66-a12c-4675-ba06-710f27d5bc85)
 
+![image](https://github.com/user-attachments/assets/e8ef6846-51bb-47f5-a2cf-a383703494c6)
+
 
 ## 🔧 Technical Details
 
